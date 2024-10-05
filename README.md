@@ -1,2 +1,3 @@
-# Ice-cream
-JS in Sololearn
+<button
+onclick='alert("Hello")'>Press here
+</button
